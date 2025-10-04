@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/HaSq/static/css/main.b6caee8b.css",
-    "main.js": "/HaSq/static/js/main.d8b7d5e6.js",
+    "main.js": "/HaSq/static/js/main.af156d22.js",
     "index.html": "/HaSq/index.html",
     "main.b6caee8b.css.map": "/HaSq/static/css/main.b6caee8b.css.map",
-    "main.d8b7d5e6.js.map": "/HaSq/static/js/main.d8b7d5e6.js.map"
+    "main.af156d22.js.map": "/HaSq/static/js/main.af156d22.js.map"
   },
   "entrypoints": [
     "static/css/main.b6caee8b.css",
-    "static/js/main.d8b7d5e6.js"
+    "static/js/main.af156d22.js"
   ]
 }
