@@ -7,10 +7,10 @@ function Navbar() {
       <h2 className="logo">SSDLC Model</h2>
       <ul className="nav-links">
         <li><Link to="/">Home</Link></li>
-        <li><Link to="/overview">Overview</Link></li>
-        <li><Link to="/phases">Phases</Link></li>
-        <li><Link to="/best-practices">Best Practices</Link></li>
-        <li><Link to="/about">About</Link></li>
+        <li><Link to="overview">Overview</Link></li>
+        <li><Link to="phases">Phases</Link></li>
+        <li><Link to="best-practices">Best Practices</Link></li>
+        <li><Link to="about">About</Link></li>
       </ul>
     </nav>
   );
