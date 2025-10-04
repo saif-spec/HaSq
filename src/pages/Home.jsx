@@ -16,7 +16,7 @@ function Home() {
         everyone plays a part in keeping data and systems safe.
       </p>
       <p>
-        Let’s now explore how <strong>security can be built into software itself</strong> 
+        Let’s now explore how <strong>security can be built into software itself </strong> 
         using the <em>Secure Software Development Life Cycle (SSDLC)</em>.
       </p>
       <PageNav next="/overview" />

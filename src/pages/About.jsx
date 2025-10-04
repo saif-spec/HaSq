@@ -9,7 +9,7 @@ function About() {
         to raise awareness about secure development and the SSDLC model.
       </p>
       <p>
-        It was presented during the <em>Welcome to Cyber Security 2026</em> event to help new students 
+        It was presented during the <em>Welcome to Cyber Security 2026</em> event to help students  
         understand how cybersecurity and software engineering work hand in hand.
       </p>
       <p>
