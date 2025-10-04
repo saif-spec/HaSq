@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ssdlc-site/static/css/main.b6caee8b.css",
-    "main.js": "/ssdlc-site/static/js/main.d8b7d5e6.js",
-    "index.html": "/ssdlc-site/index.html",
-    "main.b6caee8b.css.map": "/ssdlc-site/static/css/main.b6caee8b.css.map",
-    "main.d8b7d5e6.js.map": "/ssdlc-site/static/js/main.d8b7d5e6.js.map"
+    "main.css": "/HaSq/static/css/main.b6caee8b.css",
+    "main.js": "/HaSq/static/js/main.d8b7d5e6.js",
+    "index.html": "/HaSq/index.html",
+    "main.b6caee8b.css.map": "/HaSq/static/css/main.b6caee8b.css.map",
+    "main.d8b7d5e6.js.map": "/HaSq/static/js/main.d8b7d5e6.js.map"
   },
   "entrypoints": [
     "static/css/main.b6caee8b.css",
